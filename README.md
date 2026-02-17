@@ -1,4 +1,6 @@
 # assignment_first_ui
+<img width="235" height="521" alt="screencapture-localhost-53428-2026-02-17-15_43_21" src="https://github.com/user-attachments/assets/7367de99-673d-40f9-b8bf-5f568e427f88" />
+
 
 A new Flutter project.
 
